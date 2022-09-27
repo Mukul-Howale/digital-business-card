@@ -1,0 +1,16 @@
+.footer{
+    width: 99.8%;
+    height: 10%;
+    margin-top: 20px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer > img{
+    width: 25px;
+    height: 25px;
+    margin-top: 25px;
+}
