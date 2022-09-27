@@ -2,3 +2,16 @@
     margin: 0px;
     padding: 0px;
 }
+
+body{
+    background-color: #23252C;;
+}
+
+#root{
+    width: 317px;
+    height: 680px;
+    background-color: aquamarine;
+    margin-left: 40%;
+    margin-top: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
