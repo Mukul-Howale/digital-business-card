@@ -10,8 +10,39 @@ body{
 #root{
     width: 317px;
     height: 680px;
-    background-color: aquamarine;
+    background-color: #1A1B21;
     margin-left: 40%;
     margin-top: 20px;
     border-radius: 10px 10px 10px 10px;
+}
+
+.section{
+    width: 73%;
+    margin-left: 15%;
+    margin-top: 10px;
+}
+
+.section-title{
+    width: 242.71px;
+    height: 21px;
+    margin-bottom: 15px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+
+    color: #F5F5F5;
+}
+
+.section-details{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+
+    color: #DCDCDC;
 }
